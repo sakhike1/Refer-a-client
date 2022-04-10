@@ -33,7 +33,7 @@
           <a
             class="inline-block transition ease-in-out delay-150 hover:-translate-y-1 border-2 hover:scale-110 mb-4 sm:mb-0 sm:mr-4 py-5 px-12 text-white font-bold bg-gradient-to-r from-green-300 via-yellow-300 to-pink-300 hover:bg-blue-600 rounded-full duration-200"
             href="#porto"
-            >Refair a client</a
+            >Refer a client</a
           ><a
             class="inline-block transition ease-in-out delay-150 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 py-5 px-12 text-white font-bold border border-gray-300 hover:border-gray-200 rounded-full"
             href="#how"
@@ -55,7 +55,7 @@
           >
 
           <p class="max-w-md text-gray-400 mb-8"
-            >We just trying to find ways to give you free data refair a client
+            >We just trying to find ways to give you free data refer a client
             to us if they signup you get free service for a month .</p
           >
 
