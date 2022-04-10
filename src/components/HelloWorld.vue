@@ -12,13 +12,13 @@
           <h1
             class="text-black-800 text-4xl sm:text-5xl md:text-6xl font-bold mb-8 md:mb-12"
           >
-            Refair a client to afrihost
+            Refer a client to afrihost
           </h1>
 
           <p
             class="lg:w-4/5 text-gray-500 xl:text-lg leading-relaxed mb-8 md:mb-12"
           >
-            We just can't stop thinking of ways to help where we can refair a
+            We just can't stop thinking of ways to help where we can refer a
             client to afrihost and we will give you one month free service.
           </p>
 
