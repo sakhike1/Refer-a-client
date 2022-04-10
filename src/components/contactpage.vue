@@ -23,7 +23,7 @@
     <div id="getstarted" class="container px-3 mx-auto">
       <div class="max-w-3xl mx-auto text-center">
         <h2 class="my-10 text-5xl lg:text-6xl font-bold font-heading text-white"
-          >Refair a client to us if they signup you get free service for a month
+          >Refer a client to us if they signup you get free service for a month
           .</h2
         >
         <div class="max-w-md mx-auto">
@@ -120,7 +120,7 @@
       >
         key in the clients email address
         <br class="hidden sm:inline" />
-        <span class="text-white-600 text-lg">Refair a client to Afrihost</span>
+        <span class="text-white-600 text-lg">Refer a client to Afrihost</span>
       </h2>
       <form @submit="submitHandler" class="mt-8 sm:flex">
         <input
